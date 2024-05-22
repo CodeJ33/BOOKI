@@ -11,7 +11,9 @@ Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS.
 
 * Respecter la maquette [Figma](https://www.figma.com/file/aen32jonHhD7JnIEL2b3sE/Projet-2-FR---Booki?node-id=349%3A1)
 * Réaliser l’intégration du site en desktop first, puis au format tablette et mobile.
-* 
+* Utiliser des balises sémantiques.
+* Le code doit être valide aux validateurs W3C HTML et CSS.
+* La maquette doit être compatible avec les dernières versions de Google Chrome et de Mozilla Firefox.
 
 
 
