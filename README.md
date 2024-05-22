@@ -7,4 +7,11 @@ L’entreprise souhaite développer un site Internet qui permette aux usagers de
 Vous êtes chargé d'intégrer l'interface du site avec du code HTML et CSS. 
 
 
+## Objectifs :
+
+* Respecter la maquette [Figma](https://www.figma.com/file/aen32jonHhD7JnIEL2b3sE/Projet-2-FR---Booki?node-id=349%3A1)
+* Réaliser l’intégration du site en desktop first, puis au format tablette et mobile.
+* 
+
+
 
